@@ -1,0 +1,28 @@
+_repo: The-private-life-of-Henry-Maitland-A-record-dictated-by-J-H_69000
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roberts, Morley
+    birthdate: 1857
+    deathdate: 1942
+    gutenberg_agent_id: '6241'
+    url: http://www.gutenberg.org/2009/agents/6241
+    wikipedia: https://en.wikipedia.org/wiki/Morley_Roberts
+description: ''
+gutenberg_issued: '2022-09-16'
+identifiers:
+  gutenberg: '69000'
+language: en
+pgterms:marc904: https://archive.org/details/privatelifeofhen00robe
+pgterms:marc905: 20220830210002roberts
+pgterms:marc906: '1912'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: United States :Hodder & Stoughton,1912.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The private life of Henry Maitland: A record dictated by J. H.'
+url: http://www.gutenberg.org/ebooks/69000
