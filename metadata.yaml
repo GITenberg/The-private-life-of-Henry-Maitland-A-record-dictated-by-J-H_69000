@@ -1,5 +1,8 @@
 _repo: The-private-life-of-Henry-Maitland-A-record-dictated-by-J-H_69000
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69000-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Roberts, Morley
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6241
     wikipedia: https://en.wikipedia.org/wiki/Morley_Roberts
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69000#The-private-life-of-Henry-Maitland-A-record-dictated-by-J-H
 gutenberg_issued: '2022-09-16'
 identifiers:
   gutenberg: '69000'
